@@ -65,3 +65,42 @@ nav {
     z-index: 800;
     margin-left: 18em;
 }
+
+.content {
+    width: 98%;
+}
+
+.panel-green {
+    border-color: #00A65A;
+    .panel-heading {
+        background-color: #00A65A;
+    }
+}
+
+.panel-red {
+    border-color: #DD4B39;
+    .panel-heading {
+        background-color: #DD4B39;
+    }
+}
+
+.panel-yellow {
+    border-color: #F39C12;
+    .panel-heading {
+        background-color: #F39C12;
+    }
+}
+
+.panel-primary {
+    border-color: #3C8CBB;
+    .panel-heading {
+        background-color: #3C8CBB;
+    }
+}
+
+.panel-blue {
+    border-color: #00C0EF;
+    .panel-heading {
+        background-color: #00C0EF;
+    }
+}
