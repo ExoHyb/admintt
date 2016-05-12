@@ -1,0 +1,67 @@
+body {
+	background-color: #ecf0f5;
+}
+
+h1 {
+	font-size: 2em;
+	font-family: "Oswald";
+}
+
+h2 {
+	font-size: 1.7em;
+	font-family: "Oswald";
+}
+
+nav {
+	a {
+		font-family: "Oswald";
+		color: #fff;
+		font-size: 1.5em;
+		margin-left: 0.3em;
+		line-height: 2em;
+	}
+	#display-connection {
+		color: #fff;
+		font-family: "Oswald";
+		line-height: 3em;
+		margin-right: 1em;
+	}
+}
+
+.main-sidebar {
+	background-color: #222d32;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 5em;
+    min-height: 100%;
+    width: 230px;
+    z-index: 810;
+    -webkit-transition: -webkit-transform .3s ease-in-out,width .3s ease-in-out;
+    -moz-transition: -moz-transform .3s ease-in-out,width .3s ease-in-out;
+    -o-transition: -o-transform .3s ease-in-out,width .3s ease-in-out;
+    transition: transform .3s ease-in-out,width .3s ease-in-out;
+    ul {
+    	list-style: none;
+    }
+    li {
+    	color: #FFF;
+    	padding: 0.5em 0;
+    }
+    a {
+    	color: #FFF;
+    }
+    a:hover {
+    	text-decoration: none;
+    	font-weight: bold;
+    }
+    #title-sidebar {
+    	font-family: "Oswald";
+    }
+}
+
+.content-wrapper {
+    min-height: 100%;
+    z-index: 800;
+    margin-left: 18em;
+}
