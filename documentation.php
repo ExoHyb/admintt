@@ -71,6 +71,71 @@
 				</div>
 			</div>
 		</div>
+		<h3>Variant Box</h3>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="panel box-default">
+					<div class="panel-heading">
+						Box Default
+					</div>
+					<div class="panel-body">
+						Box content
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="panel box-green">
+					<div class="panel-heading">
+						Box Green
+					</div>
+					<div class="panel-body">
+						Box content
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="panel box-red">
+					<div class="panel-heading">
+						Box Red
+					</div>
+					<div class="panel-body">
+						Box content
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="panel box-yellow">
+					<div class="panel-heading">
+						Box Yellow
+					</div>
+					<div class="panel-body">
+						Box content
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="panel box-primary">
+					<div class="panel-heading">
+						Box Primary
+					</div>
+					<div class="panel-body">
+						Box content
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="panel box-blue">
+					<div class="panel-heading">
+						Box Blue
+					</div>
+					<div class="panel-body">
+						Box content
+					</div>
+				</div>
+			</div>
+		</div>
 	</section>
 </div>
 <?php include "footer.php"; ?>

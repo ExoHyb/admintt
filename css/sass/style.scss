@@ -109,3 +109,51 @@ nav {
         background-color: #00C0EF;
     }
 }
+
+.box-default {
+    border: 1px solid #E4E4E4;
+    .panel-heading {
+        border-top: 3px solid #999;
+        border-bottom: 1px solid #E4E4E4;
+    }
+}
+
+.box-green {
+    border: 1px solid #E4E4E4;
+    .panel-heading {
+        border-top: 3px solid #00A65A;
+        border-bottom: 1px solid #E4E4E4;
+    }
+}
+
+.box-red {
+    border: 1px solid #E4E4E4;
+    .panel-heading {
+        border-top: 3px solid #DD4B39;
+        border-bottom: 1px solid #E4E4E4;
+    }
+}
+
+.box-yellow {
+    border: 1px solid #E4E4E4;
+    .panel-heading {
+        border-top: 3px solid #F39C12;
+        border-bottom: 1px solid #E4E4E4;
+    }
+}
+
+.box-primary {
+    border: 1px solid #E4E4E4;
+    .panel-heading {
+        border-top: 3px solid #3C8CBB;
+        border-bottom: 1px solid #E4E4E4;
+    }
+}
+
+.box-blue {
+    border: 1px solid #E4E4E4;
+    .panel-heading {
+        border-top: 3px solid #00C0EF;
+        border-bottom: 1px solid #E4E4E4;
+    }
+}
