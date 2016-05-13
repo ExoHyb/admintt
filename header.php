@@ -14,7 +14,7 @@
 <body>
 	<div class="wrapper">
 		<header class="main-header">
-		<nav class="navbar navbar-static-top navbar-inverse">
+		<nav class="navbar navbar-fixed-top navbar-inverse">
 			<div class="navbar-form navbar-left">
 				<a href="index.php">Admin TT</a>
 			</div>

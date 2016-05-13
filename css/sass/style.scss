@@ -6,6 +6,7 @@ body {
 }
 
 nav {
+    position: fixed;
 	a {
 		font-family: "Oswald";
 		color: #fff;
@@ -23,7 +24,7 @@ nav {
 
 .main-sidebar {
 	background-color: #222d32;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     padding-top: 5em;
@@ -57,6 +58,10 @@ nav {
     min-height: 100%;
     z-index: 800;
     margin-left: 18em;
+}
+
+.content-header {
+    margin-top: 6em;
 }
 
 .content {
